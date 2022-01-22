@@ -1,6 +1,18 @@
 title{
     font-size: medium;
+    font-style: italic;
 }
 span {
-    color: yellow;
+    color: orange;
+}
+ul > li{
+    list-style-type:none;
+    display: inline;
+    margin: 70px;
+    padding: 0px;
+    float:right;
+    font-weight: bold;
+}
+p {
+    display: block;
 }
