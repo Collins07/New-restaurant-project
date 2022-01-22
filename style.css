@@ -1,5 +1,5 @@
-title{
-    font-size: medium;
+h1{
+    font-size: 30px;
     font-style: italic;
 }
 span {
@@ -9,10 +9,31 @@ ul > li{
     list-style-type:none;
     display: inline;
     margin: 70px;
-    padding: 0px;
+    padding:-10px;
     float:right;
     font-weight: bold;
+    margin-top: -40px;
+    margin-right: 150px;
 }
 p {
     display: block;
+}
+.p1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.p2 {
+    font-size: 15px;
+    margin-left: 150px;
+    margin-top: 0px;
+    color:dimgrey ;
+}
+.img2 {
+    float: right;
+    margin-right: 150px;
+    margin-top: -250px;
+    height: 500px;
+    width: 400px;
 }
