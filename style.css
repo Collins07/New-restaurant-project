@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(110deg,rgb(234, 248, 248) 60%, orange 40%);
+}
+
 h1{
     font-size: 30px;
     font-style: italic;
@@ -39,15 +43,14 @@ p {
     width: 400px;
 }
 div.gallery {
-    margin: 20px;
     border: 1px solid rgb(172, 80, 80);
-    float: left;
-    width: 150px;
+    float:left;
+    width: 180px;
     height: 300px;
     display: inline;
-    margin-top: 450px;
-    margin-left: 150px;
-    padding-left: 0px;
+    margin: 30px;
+    margin-top: 300px;
+    margin-left: 70px;
   }
   div.gallery img {
     width: 50%;
@@ -56,5 +59,29 @@ div.gallery {
   }
   
   div.description {
-    padding: 15px;
+    padding: 10px;
     text-align: center;
+  }
+  h2{
+      text-align: center;
+  }
+  div.seek {
+    border: 1px solid rgb(204, 196, 196);
+    float:left;
+    width: 200px;
+    height: 300px;
+    display: inline;
+    margin: 30px;
+    margin-top: 500px;
+    margin-left: -10px;
+  }
+  div.seek img {
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+  }
+  
+  div.details {
+    padding: 10px;
+    text-align: center;
+  }
