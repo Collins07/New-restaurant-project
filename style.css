@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(98deg,rgb(234, 248, 248) 60%, orange 60%);
+    background: linear-gradient(98deg,rgb(232, 241, 241) 60%, orange 60%);
 }
 
 h1{
@@ -49,8 +49,8 @@ div.gallery {
     height: 340px;
     display: inline;
     margin: 30px;
-    margin-top: 300px;
-    margin-left: 70px;
+    margin-top: 50px;
+    margin-left: 150px;
   }
   div.gallery img {
     width: 70%;
@@ -71,9 +71,9 @@ div.gallery {
     width: 200px;
     height: 420px;
     display: inline;
-    margin: 30px;
-    margin-top: 500px;
-    margin-left: -10px;
+    margin: 40px;
+    margin-top: 550px;
+    margin-left: -550px;
   }
   div.seek img {
     width: 50%;
@@ -99,7 +99,7 @@ div.gallery {
     height: 500px;
     display: inline;
     margin: 40px;
-    margin-top: 500px;
+    margin-top: 300px;
     margin-left: 100px;
   }
   div.segment img {
@@ -118,7 +118,7 @@ div.gallery {
   .img3 {
     float: right;
     margin-right: 300px;
-    margin-top: -50px;
+    margin-top: -40px;
     height: 500px;
     width: 400px;
 }
