@@ -1,7 +1,7 @@
-body{
-    background: linear-gradient(98deg,rgb(232, 241, 241) 60%, orange 60%);
+.gradient {
+    background: linear-gradient(98deg,rgb(232, 241, 241) 70%, orange 70%);
+    height:700px;
 }
-
 h1{
     font-size: 30px;
     font-style: italic;
