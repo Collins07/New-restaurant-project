@@ -26,6 +26,13 @@ ul > li{
 }
 #download{
   align-items: center;
+  display: flex;
+  margin-top: 10px;
+}
+#png{
+  align-items: center;
+  display: flex;
+  margin-top: 700px;
 }
 p {
     display: block;
@@ -51,14 +58,14 @@ p {
     width: 400px;
 }
 div.gallery {
-    border: 1px solid rgb(172, 80, 80);
-    float:left;
-    width: 180px;
-    height: 340px;
-    display: inline;
-    margin: 30px;
-    margin-top: 50px;
-    margin-left: 150px;
+  border: 1px solid rgb(172, 80, 80);
+  float:left;
+  width: 180px;
+  height: 260px;
+  display: inline;
+  margin: 30px;
+  margin-top: 50px;
+  margin-left: 150px;
   }
   div.gallery img {
     width: 70%;
@@ -66,9 +73,10 @@ div.gallery {
     padding: 20px;
   }
   
-  div.description {
+  .description {
     padding: 10px;
     text-align: center;
+    font-size: 10px;
   }
   h2{
       text-align: center;
@@ -77,7 +85,7 @@ div.gallery {
     border: 1px solid rgb(204, 196, 196);
     float:left;
     width: 200px;
-    height: 420px;
+    height: 20px;
     display: inline;
     margin: 40px;
     margin-top: 550px;
@@ -89,7 +97,7 @@ div.gallery {
     padding: 20px;
   }
   
-  div.details {
+  p.details {
     padding: 10px;
     text-align: center;
   }
