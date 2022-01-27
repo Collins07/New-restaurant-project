@@ -19,6 +19,14 @@ ul > li{
     margin-top: -40px;
     margin-right: 100px;
 }
+#double{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+#download{
+  align-items: center;
+}
 p {
     display: block;
 }
