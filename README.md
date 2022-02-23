@@ -1,16 +1,20 @@
-# Portfolio
+# Restaurant
 
 ##### Collins07
 New restaurant project
 
 ## Table of Content
 
-+ [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](#author-Info)
+- [Restaurant](#restaurant)
+        - [Collins07](#collins07)
+  - [Table of Content](#table-of-content)
+  - [Description](#description)
+  - [Installation](#installation)
+    - [Requirements](#requirements)
+    - [Installation Process](#installation-process)
+  - [Technology Used](#technology-used)
+  - [Reference](#reference)
+  - [Licence](#licence)
 
 ## Description
 <p>This a new project set to be used in the improving of our new restaurant burger. Our improved qualities of burgers will keep our customers coming back for more. Our new burgers will come in ranges of sizes and meat content, as well as halal and non-halal options, to ensure we provide our customers and their customers with plenty of variety to suit all requirements.</p>
